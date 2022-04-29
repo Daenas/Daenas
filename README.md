@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Daenas/Daenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Daenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi! I'm Daenam Daher!
+#### Software Analysis and Development 1/5 💻📚
+
+- 🔭 I’m currently studying Software Analysis and Development at USF - Campinas
+- ⚡ Fun fact: C is my favourite programming language
+- 📫 How to reach me: "daenamdaher@gmail.com"
+
+<div>
+  <a href="https://github.com/Daenas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daenas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img align="right" alt="Daenas-gif" height="181" width="250" src="https://cdn.discordapp.com/attachments/684903546906476556/876944133028212797/dsBuffer.bmp.png">
+  
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daenas&hide="/> -->
+</div>
+
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Daenas-lang2" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Daenas-lang5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     
+    
+  </div>
+  
+  ##
+  
+  <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daenas&langs_count=8&theme=midnight-purple"/>
+  </div>
+  
+  
+   ##
+  
+ <div> 
+  <a href = "mailto:daenamdaher@gmail.com"><img src="https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daenam-daher-a36772214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+</div>
