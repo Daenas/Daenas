@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/Daenas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daenas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img align="right" alt="Daenas-gif" height="181" width="250" src="https://cdn.discordapp.com/attachments/684903546906476556/876944133028212797/dsBuffer.bmp.png">
   
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daenas&hide="/> -->
 </div>
