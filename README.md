@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ## Hi! I'm Daenam Daher!
-#### Software Analysis and Development 1/5 💻📚
+#### Software Analysis and Development 2/5 💻📚
 
 - 🔭 I’m currently studying Software Analysis and Development at USF - Campinas
-- ⚡ Fun fact: C is my favourite programming language
+- ⚡ Fun fact: Python is my favourite programming language
 - 📫 How to reach me: "daenamdaher@gmail.com"
 
 <div>
