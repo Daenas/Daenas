@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi! I'm Daenam Daher!
-#### Software Analysis and Development 2/5 💻📚
+## Hi! I'm Daenam!
+#### Software Analysis and Development 4/5 💻📚
 
 - 🔭 I’m currently studying Software Analysis and Development at USF - Campinas
 - ⚡ Fun fact: Python is my favourite programming language
